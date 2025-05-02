@@ -2,7 +2,7 @@
 
 Hi, I’m James Ndungu — welcome to my GitHub!
 
-I’m an aspiring Data Scientist and passionate Data Analyst currently completing my Diploma in Data Science and Analytics at Zetech University. I enjoy working on data-driven projects that uncover insights and support better decision-making.
+I’m an aspiring Data Scientist and passionate Data Analyst currently completed my Diploma in Data Science and Analytics at Zetech University. I enjoy working on data-driven projects that uncover insights and support better decision-making.
 
 What I Do:
 
